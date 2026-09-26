@@ -8,7 +8,7 @@
 
 Последняя версия — на странице [последнего релиза](https://github.com/unchase/tokens-releases/releases/latest).
 Все версии — в [списке релизов](https://github.com/unchase/tokens-releases/releases), что
-в каждой изменилось — в [журнале изменений](https://github.com/unchase/tokens-releases/blob/main/CHANGELOG.md).
+в каждой изменилось — в [журнале изменений](https://github.com/unchase/tokens-releases/blob/HEAD/CHANGELOG.md).
 
 | Файл | Когда брать |
 |---|---|
